@@ -21,4 +21,5 @@ A **Java Swing-based** GUI application for managing electricity bills with secur
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/electricity-billing-system.git
+   https://github.com/Nitin-M-1/Bill-Generator-.git
+   ```
