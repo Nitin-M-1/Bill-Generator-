@@ -1,7 +1,24 @@
-# Electricity-Bill-Generator
-Java Swing-based GUI with an interactive and responsive interface.
-Secure login system using JTextField and JPasswordField.
-Automated bill calculation based on units consumed and connection type (Domestic/Commercial).
-Data persistence with file-based storage for saving and retrieving billing records.
-Search & delete functionalities for efficient record management.
-Error handling & input validation to prevent invalid data entries.
+# ⚡  Billing System
+
+A **Java Swing-based** GUI application for managing electricity bills with secure authentication, automated calculations, and efficient record management.
+
+## 🚀 Features
+
+- 🎨 **Interactive Java Swing GUI** – A user-friendly and responsive interface.
+- 🔐 **Secure Login System** – Implements `JTextField` and `JPasswordField` for authentication.
+- 📊 **Automated Bill Calculation** – Computes charges based on units consumed and connection type (Domestic/Commercial).
+- 💾 **Persistent Data Storage** – Saves and retrieves billing records using file-based storage.
+- 🔎 **Search & Delete Functionality** – Allows easy retrieval and removal of records.
+- 🛡️ **Robust Error Handling & Validation** – Ensures data accuracy and prevents invalid entries.
+
+## 🛠️ Tech Stack
+
+- **Programming Language**: Java  
+- **GUI Framework**: Java Swing  
+- **Database**: File-based storage  
+
+## 📦 Installation
+
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/your-username/electricity-billing-system.git
